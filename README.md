@@ -61,7 +61,9 @@ NAS Synology DiskStation
 
 ---
 
-Схема мережі
+## Схема мережі
+
+![Схема мережі](scheme.png)
 
 
 
