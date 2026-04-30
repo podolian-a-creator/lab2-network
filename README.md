@@ -211,15 +211,15 @@ UTP Cat5e
 | Wi-Fi роутер TP-Link Archer C6 | 2200 | 1 | 2200 |
 | Комутатор TP-Link TL-SG108 (8-port) | 1400 | 1 | 1400 |
 | Кабель UTP Cat5e (1 м) | 12 | 42 | 504 |
-| Конектор RJ-45 | 2 | 8 | 16 |
+| Конектор RJ-45 | 2 | 20 | 40 |
 | Подвійна мережева розетка | 120 | 4 | 480 |
-| NAS Synology DiskStation | 5000 | 1 | 5000 |
-| Міні-сервер Intel NUC | 8000 | 1 | 8000 |
-| Мережевий принтер HP LaserJet | 4500 | 1 | 4500 |
-| Smart TV Samsung | 9000 | 1 | 9000 |
-| **РАЗОМ** |  |  | **31100** |
-
-
+| NAS Synology DiskStation DS220+ | 5000 | 1 | 5000 |
+| Міні-сервер Intel NUC 11 | 8000 | 1 | 8000 |
+| Мережевий принтер HP LaserJet Pro M404dn | 4500 | 1 | 4500 |
+| Smart TV Samsung UE43AU7100 | 9000 | 1 | 9000 |
+| ПК Dell OptiPlex 3080 (Core i5, 8GB RAM) | 15000 | 4 | 60000 |
+| Ноутбук Lenovo IdeaPad 3 15ITL6 (Core i5, 8GB RAM) | 20000 | 2 | 40000 |
+| **РАЗОМ** |  |  | **131124** |
 
 ---
 
